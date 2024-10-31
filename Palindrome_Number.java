@@ -7,7 +7,7 @@ class Solution {
 
        String xStr = Integer.toString(x);
        int len = xStr.length();
-       for (int i = 0; i < len / 2; i++) {
+       for (int i = 0; i < len / 2; i++) { 
            if (xStr.charAt(i) != xStr.charAt(len - i - 1)) {
                return false;
            }
