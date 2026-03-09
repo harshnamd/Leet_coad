@@ -27,3 +27,15 @@ If you find these solutions helpful, consider following my GitHub profile and co
 Happy Coding! 🎉
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+<!---LeetCode Topics End-->
