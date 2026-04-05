@@ -33,6 +33,7 @@ Happy Coding! 🎉
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Binary Search
@@ -46,6 +47,7 @@ Happy Coding! 🎉
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -59,4 +61,8 @@ Happy Coding! 🎉
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
