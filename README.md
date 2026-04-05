@@ -34,8 +34,29 @@ Happy Coding! 🎉
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
