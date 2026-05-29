@@ -37,6 +37,7 @@ Happy Coding! 🎉
 | [0084-largest-rectangle-in-histogram](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1472-design-browser-history](https://github.com/harshnamd/Leet_coad/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshnamd/Leet_coad/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +71,8 @@ Happy Coding! 🎉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshnamd/Leet_coad/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/harshnamd/Leet_coad/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
